@@ -5,6 +5,9 @@ description: "中山大学研究员，专注于人工智能在气象预报和气
 url: "https://zhangminglang42.github.io"
 baseurl: "/Guowen.github.io" # 项目页面需要baseurl
 
+# 确保链接正确
+absolute_urls: true
+
 # Author
 author:
   name: "李国文 (Guowen Li)"
