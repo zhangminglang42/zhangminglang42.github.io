@@ -6,7 +6,7 @@ url: "https://zhangminglang42.github.io"
 baseurl: "" # GitHub Pages用户站点不需要baseurl
 
 # 确保链接正确
-absolute_urls: true
+absolute_urls: false
 
 # Author
 author:

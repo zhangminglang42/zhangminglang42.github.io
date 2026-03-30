@@ -9,7 +9,7 @@ classes: wide
   
   <!-- Left Sidebar: Profile Photo and Info -->
   <div class="profile-sidebar">
-    <img src="/assets/images/bio-photo.jpg" alt="李国文 (Guowen Li)" class="profile-photo">
+    <img src="{{ '/assets/images/bio-photo.jpg' | relative_url }}" alt="李国文 (Guowen Li)" class="profile-photo">
     
     <div class="profile-info">
       <h3>李国文 (Guowen Li)</h3>
