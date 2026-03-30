@@ -7,13 +7,13 @@ header:
   overlay_filter: 0.3
   overlay_color: "#1a6fb4"
   actions:
-    - label: "论文发表"
+    - label: "📄 论文发表"
       url: "/publications/"
       btn_class: "btn--primary"
-    - label: "研究项目"
+    - label: "🔬 研究项目"
       url: "/projects/"
       btn_class: "btn--primary"
-    - label: "简历/CV"
+    - label: "👤 个人简介"
       url: "/about/"
       btn_class: "btn--success"
 author_profile: true

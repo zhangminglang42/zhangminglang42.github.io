@@ -3,7 +3,7 @@ title: "AI for Weather & Climate Research | 李国文"
 name: "李国文 (Guowen Li)"
 description: "中山大学研究员，专注于人工智能在气象预报和气候建模中的应用研究"
 url: "https://zhangminglang42.github.io"
-baseurl: "/Guowen.github.io" # 项目页面需要baseurl
+baseurl: "" # GitHub Pages用户站点不需要baseurl
 
 # 确保链接正确
 absolute_urls: true
@@ -52,6 +52,7 @@ sass:
 # Include custom CSS
 include:
   - assets/css/custom.scss
+  - assets/css/custom-publications.scss
 
 # Defaults
 defaults:
