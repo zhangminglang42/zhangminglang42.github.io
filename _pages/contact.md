@@ -4,89 +4,89 @@ permalink: /contact/
 layout: single
 ---
 
-## 联系信息
+## Contact Information
 
-### 工作地址
-**中山大学大气科学学院**  
-中国广东省广州市海珠区新港西路135号  
-邮编：510275
+### Office Address
+**School of Atmospheric Sciences, Sun Yat-sen University**  
+135 Xingang West Road, Haizhu District  
+Guangzhou, Guangdong 510275, China
 
-### 电子邮箱
-**学术联系**: [ligw8@mail2.sysu.edu.cn](mailto:ligw8@mail2.sysu.edu.cn)
+### Email
+**Academic Contact**: [ligw8@mail2.sysu.edu.cn](mailto:ligw8@mail2.sysu.edu.cn)
 
-### 在线资料
+### Online Profiles
 - **Google Scholar**: [https://scholar.google.com/citations?user=xLf7K7wAAAAJ](https://scholar.google.com/citations?user=xLf7K7wAAAAJ)
 - **GitHub**: [https://github.com/zhangminglang42](https://github.com/zhangminglang42)
-- **ORCID**: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(请填写您的ORCID)*
+- **ORCID**: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
 - **ResearchGate**: [https://www.researchgate.net/profile/Guowen-Li](https://www.researchgate.net/profile/Guowen-Li)
 
-## 办公时间
+## Office Hours
 
-**秋季/春季学期**:
-- 星期二：14:00-16:00
-- 星期四：10:00-12:00
+**Fall/Spring Semester**:
+- Tuesday: 2:00-4:00 PM
+- Thursday: 10:00 AM-12:00 PM
 
-**预约**: 请提前通过邮件预约，注明会议主题和预计时长。
+**Appointment**: Please schedule in advance via email, indicating the meeting topic and expected duration.
 
-## 合作咨询
+## Collaboration Inquiries
 
-我欢迎以下类型的合作咨询：
+I welcome the following types of collaboration inquiries:
 
-### 学术合作
-- 联合研究项目申请
-- 论文合作与评审
-- 学术访问与交流
-- 研究生联合指导
+### Academic Collaboration
+- Joint research project proposals
+- Paper collaboration and review
+- Academic visits and exchanges
+- Joint graduate student supervision
 
-### 产业合作
-- 气象AI技术转化
-- 数据服务与咨询
-- 定制化天气预报解决方案
-- 极端天气预警系统开发
+### Industry Collaboration
+- Meteorological AI technology transfer
+- Data services and consulting
+- Customized weather forecasting solutions
+- Extreme weather early warning system development
 
-### 学生指导
-- 研究生招生咨询
-- 本科生科研训练
-- 实习机会
-- 毕业论文指导
+### Student Supervision
+- Graduate student admissions consultation
+- Undergraduate research training
+- Internship opportunities
+- Thesis supervision
 
-## 快速联系表单
+## Quick Contact Form
 
-*注：此表单需要后端支持，目前仅展示样式*
+*Note: This form requires backend support and is currently for display only*
 
 <form class="contact-form">
   <div class="form-group">
-    <label for="name">姓名 *</label>
+    <label for="name">Name *</label>
     <input type="text" id="name" name="name" required>
   </div>
   
   <div class="form-group">
-    <label for="email">邮箱 *</label>
+    <label for="email">Email *</label>
     <input type="email" id="email" name="email" required>
   </div>
   
   <div class="form-group">
-    <label for="affiliation">单位/学校</label>
+    <label for="affiliation">Affiliation/Institution</label>
     <input type="text" id="affiliation" name="affiliation">
   </div>
   
   <div class="form-group">
-    <label for="subject">主题 *</label>
+    <label for="subject">Subject *</label>
     <select id="subject" name="subject" required>
-      <option value="">请选择...</option>
-      <option value="research">研究合作</option>
-      <option value="teaching">教学相关</option>
-      <option value="student">学生指导</option>
-      <option value="other">其他</option>
+      <option value="">Please select...</option>
+      <option value="research">Research Collaboration</option>
+      <option value="teaching">Teaching Related</option>
+      <option value="student">Student Supervision</option>
+      <option value="other">Other</option>
     </select>
   </div>
   
   <div class="form-group">
-    <label for="message">消息内容 *</label>
+    <label for="message">Message *</label>
     <textarea id="message" name="message" rows="6" required></textarea>
   </div>
   
-  <button type="submit" class="btn btn--primary">发送消息</button>
+  <button type="submit" class="btn btn--primary">Send Message</button>
 </form>
 
 <style>
@@ -123,7 +123,7 @@ layout: single
 }
 </style>
 
-## 地理位置
+## Location
 
 <iframe 
   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3683.72424666736!2d113.29231431542288!3d23.09538298456722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3402ff7f2c7b8f9f%3A0x9c5e6c7c8d7c8d7c!2z5Lit5Zu95aSn5a2m5a+75aSn5a2m!5e0!3m2!1szh-CN!2scn!4v1647859200000!5m2!1szh-CN!2scn" 
@@ -134,10 +134,10 @@ layout: single
   loading="lazy">
 </iframe>
 
-## 响应时间
+## Response Time
 
-我通常会在 **1-3个工作日内** 回复学术相关的邮件。如果一周内未收到回复，请考虑重新发送或通过其他渠道联系。
+I typically respond to academic-related emails within **1-3 business days**. If you don't receive a response within a week, please consider resending or contacting through other channels.
 
 ---
 
-**期待与您的交流与合作！**
+**Looking forward to connecting and collaborating with you!**

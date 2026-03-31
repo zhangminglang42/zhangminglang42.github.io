@@ -1,47 +1,47 @@
 ---
-title: "关于"
+title: "About"
 permalink: /about/
 layout: single
 author_profile: true
 ---
 
-## 李国文 (Guowen Li)
+## Guowen Li (李国文)
 
 **AI Researcher | Meteorology & Climate Science | Sun Yat-sen University**
 
-我是中山大学的研究人员，专注于人工智能在气象预报和气候建模中的应用。我的研究工作旨在弥合传统大气科学与现代机器学习技术之间的差距。
+I am a researcher at Sun Yat-sen University specializing in the application of artificial intelligence to weather forecasting and climate modeling. My research aims to bridge the gap between traditional atmospheric sciences and modern machine learning techniques.
 
-### 研究方向
+### Research Interests
 
-- **AI增强天气预报**：开发提高预报精度和计算效率的深度学习模型
-- **气候模型仿真**：使用神经网络创建快速、准确的复杂气候模型仿真器
-- **极端事件分析**：应用机器学习方法检测和预测极端天气现象
-- **多模态数据融合**：整合卫星图像、雷达数据和数值模型输出
+- **AI-Enhanced Weather Forecasting**: Developing deep learning models to improve forecast accuracy and computational efficiency
+- **Climate Model Emulation**: Using neural networks to create fast, accurate emulators of complex climate models
+- **Extreme Event Analysis**: Applying machine learning methods to detect and predict extreme weather phenomena
+- **Multimodal Data Fusion**: Integrating satellite imagery, radar data, and numerical model outputs
 
-### 教育背景
+### Education
 
-- **博士研究生**，大气科学  
-  **中山大学**，大气科学学院，202X年-至今  
-  研究方向：深度学习在中期天气预报中的应用
+- **Ph.D. Candidate** in Atmospheric Sciences  
+  **Sun Yat-sen University**, School of Atmospheric Sciences, 202X-Present  
+  Research Focus: Deep learning applications in medium-range weather forecasting
 
-- **硕士**，计算机科学  
-  **中山大学**，计算机学院，202X年-202X年  
-  硕士论文："基于Transformer的时空气候数据建模"
+- **M.S.** in Computer Science  
+  **Sun Yat-sen University**, School of Computer Science, 202X-202X  
+  Thesis: "Transformer-based Spatiotemporal Climate Data Modeling"
 
-- **学士**，大气科学  
-  **中山大学**，大气科学学院，202X年-202X年
+- **B.S.** in Atmospheric Sciences  
+  **Sun Yat-sen University**, School of Atmospheric Sciences, 202X-202X
 
-### 研究经历
+### Research Experience
 
-- **研究助理**，中山大学大气科学学院，202X年-至今  
-  - 参与国家自然科学基金项目"人工智能增强的集合天气预报系统"
-  - 开发深度学习模型用于气象数据同化和误差订正
-  - 与广东省气象局合作开展AI天气预报业务化试验
+- **Research Assistant**, Sun Yat-sen University, 202X-Present  
+  - Participated in National Natural Science Foundation project "AI-Enhanced Ensemble Weather Forecasting System"
+  - Developed deep learning models for meteorological data assimilation and error correction
+  - Collaborated with Guangdong Meteorological Bureau on operational AI weather forecasting trials
 
-- **科研实习生**，中国气象局气象科学研究院，202X年夏季  
-  - 参与卫星云图智能识别算法研发
-  - 协助开发基于深度学习的短时强降水预报系统
-  - 撰写技术报告和算法文档
+- **Research Intern**, Chinese Academy of Meteorological Sciences, Summer 202X  
+  - Participated in satellite cloud image intelligent recognition algorithm development
+  - Assisted in developing deep learning-based short-term heavy precipitation forecasting system
+  - Prepared technical reports and algorithm documentation
 
 ### Skills
 

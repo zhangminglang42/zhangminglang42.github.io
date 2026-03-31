@@ -1,0 +1,84 @@
+<!-- Author Profile Sidebar -->
+{% if page.author_profile or layout.author_profile %}
+<div class="author__avatar">
+  {% if site.author.avatar %}
+    {% assign avatar = site.author.avatar %}
+    {% unless avatar contains "://" %}
+      {% assign avatar = avatar | relative_url %}
+    {% endunless %}
+    <img src="{{ avatar }}" alt="{{ site.author.name | default: site.title }}" itemprop="image">
+  {% endif %}
+</div>
+
+<div class="author__content">
+  <h3 class="author__name">{{ site.author.name | default: site.title }}</h3>
+  {% if site.author.bio %}
+    <p class="author__bio">{{ site.author.bio }}</p>
+  {% endif %}
+</div>
+
+<div class="author__urls-wrapper">
+  <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | default: "Follow" }}</button>
+  <ul class="author__urls social-icons">
+    {% if site.author.location %}
+      <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+        <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">{{ site.author.location }}</span>
+      </li>
+    {% endif %}
+    
+    {% if site.author.employer %}
+      <li>
+        <i class="fas fa-fw fa-building" aria-hidden="true"></i> {{ site.author.employer }}
+      </li>
+    {% endif %}
+    
+    {% if site.author.email %}
+      <li>
+        <a href="mailto:{{ site.author.email }}">
+          <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+        </a>
+      </li>
+    {% endif %}
+    
+    {% if site.author.googlescholar %}
+      <li>
+        <a href="{{ site.author.googlescholar }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="ai ai-google-scholar ai-fw"></i> Google Scholar
+        </a>
+      </li>
+    {% endif %}
+    
+    {% if site.author.orcid %}
+      <li>
+        <a href="{{ site.author.orcid }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="ai ai-orcid ai-fw"></i> ORCID
+        </a>
+      </li>
+    {% endif %}
+    
+    {% if site.author.github %}
+      <li>
+        <a href="https://github.com/{{ site.author.github }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub
+        </a>
+      </li>
+    {% endif %}
+    
+    {% if site.author.linkedin %}
+      <li>
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn
+        </a>
+      </li>
+    {% endif %}
+    
+    {% if site.author.twitter %}
+      <li>
+        <a href="https://twitter.com/{{ site.author.twitter }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+          <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+        </a>
+      </li>
+    {% endif %}
+  </ul>
+</div>
+{% endif %}
